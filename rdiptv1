@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:6
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:264681615
+#EXTINF:6.000,
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/segment264681615_150_av-p.ts?sd=6&rebase=on&hdntl=exp=1588176103~acl=/i/dclive_1@167228*~data=hdntl~hmac=e7c1094a6e047e797bcc1f3d8a3306721d6288ad9d578c7e93e85bb5c18b4d04
+#EXTINF:6.000,
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/segment264681616_150_av-p.ts?sd=6&rebase=on&hdntl=exp=1588176103~acl=/i/dclive_1@167228*~data=hdntl~hmac=e7c1094a6e047e797bcc1f3d8a3306721d6288ad9d578c7e93e85bb5c18b4d04
+#EXTINF:6.000,
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/segment264681617_150_av-p.ts?sd=6&rebase=on&hdntl=exp=1588176103~acl=/i/dclive_1@167228*~data=hdntl~hmac=e7c1094a6e047e797bcc1f3d8a3306721d6288ad9d578c7e93e85bb5c18b4d04
